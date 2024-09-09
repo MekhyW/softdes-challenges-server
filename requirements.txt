@@ -1,0 +1,6 @@
+flask
+flask_httpauth
+datetime
+sqlite3
+json
+hashlib
